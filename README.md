@@ -137,3 +137,4 @@ This issue can occur because the cache of the app and the app itself are kept se
 2. For Linux, the app data directory is `$XDG_CONFIG_HOME` or `~/.config`
 3. For MacOS, the app data directory is `~/Library/Application\ Support/`
 4. For Windows, the app data directory is `%APPDATA%`
+Hello World
